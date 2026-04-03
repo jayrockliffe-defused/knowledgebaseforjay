@@ -2,7 +2,7 @@
 
 ---
 
-## HARD RULE — NO ASSUMPTIONS. EVER.
+## HARD RULE — NO ASSUMPTIONS. EVER. Assumptions cost us both time lost and, for me, time and money. Assumptions are never the right answer, and it makes the task take longer than it should. 
 
 This overrides everything below. No exceptions. No flexibility.
 
