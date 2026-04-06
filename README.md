@@ -3,6 +3,14 @@ name: jay-working-protocol
 description: Universal working protocol for all sessions with Jay across all projects. Covers the mandatory Think → Ask → Research → Plan → Confirm → Build → QA → Present sequence, profitability filters, downside anticipation, automation identification, anti-patterns, and Jay's working style. Load this at the start of any task that involves building, changing, or shipping anything. Trigger on any mention of "build", "fix", "change", "add", "implement", "deploy", or any action that modifies code, content, or files.
 ---
 
+> **Required reading before any task.** This README is one of three files. Read all three.
+>
+> 1. [CLAUDE.md](./CLAUDE.md): Hard rules, no-assumption policy, how to work with Jay
+> 2. [Writing Style for Jay](./writing%20style%20for%20jay): Voice codex, global rules (no emojis, no em dashes, no fluff), 90 human-writing principles
+>
+> If you skip these, you will produce work that gets rejected. Read them first. Every time.
+
+
 # Jay's Working Protocol
 Version 2.0 — Universal. Applies to all projects.
 
