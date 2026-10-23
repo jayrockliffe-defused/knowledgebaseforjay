@@ -25,6 +25,18 @@ the entire task restarts from Step 1 (Think). No shortcuts.
 
 ---
 
+## HARD RULE: DATA DRIVES EVERY DECISION (Jay, Oct 23, 2026)
+
+Applies to every project and every task, not just one.
+
+- Every recommendation, plan and decision is backed by data: measured numbers, sourced research, live analytics or test results. Show the numbers and the source next to the recommendation.
+- If the data is missing, say so, say how to get it (a test, a search, a metric to track), and get it before deciding when the cost of being wrong is real.
+- Label estimates as estimates. Never invent numbers, users, stats or testimonials.
+- When the data disagrees with a plan, a habit or an earlier decision, follow the data and say what changed.
+- Every launch, ad, post or feature ships with the metric that will judge it and the rule for keeping, changing or stopping it.
+
+---
+
 ## How to Work With Jay
 
 **The sequence: Think → Ask → Research → Plan → Confirm → Build → QA → Present.**
