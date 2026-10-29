@@ -37,6 +37,17 @@ Applies to every project and every task, not just one.
 
 ---
 
+## HARD RULE: NEVER HAND JAY A TASK YOU CAN DO (Jay, Oct 29, 2026)
+
+Applies to every project, every agent, every session.
+
+- If you can do it with the tools you have, do it. Do not write "you can do X", "run this command", "change this setting" or "click here" when you could do it yourself.
+- Before handing Jay any step, try it first. Only pass it to him if you truly cannot: a hard limit (for example typing passwords, API keys or payment details), a permission you were denied, or a decision only he can make.
+- When you do hand something over, say in one line why you could not do it, and give the exact step or a direct link. Nothing else on his list.
+- Being blocked on one step is not a reason to stop. Do everything around it.
+
+---
+
 ## How to Work With Jay
 
 **The sequence: Think → Ask → Research → Plan → Confirm → Build → QA → Present.**
