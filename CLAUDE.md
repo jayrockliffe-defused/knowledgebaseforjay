@@ -48,6 +48,26 @@ Applies to every project, every agent, every session.
 
 ---
 
+## HARD RULE: THREE QA TIERS, EVERY PROJECT AND GOVERNOR (Jay, Oct 29, 2026)
+
+Testing never gets skipped, but the expensive model only runs when the risk earns it. Full QA on Claude costs about $30 a session.
+
+- **Tier 1, every commit (free):** the project's automated tests, type checks and gates, run locally.
+- **Tier 2, every deploy (cents):** the project's QA agent runs on DeepSeek through OpenCode (default deepseek/deepseek-flash). Same frozen snapshot, phone and desktop widths, both themes, live check after deploy.
+- **Tier 3, big releases only (about $30):** full independent QA on Claude. Use it for every 4th deploy, any release with more than one feature, and anything touching payments, sign-in, database migrations or user data.
+- A HIGH defect at any tier blocks the deploy. If Tier 2 output looks thin or unsure, escalate to Tier 3.
+- Never batch all testing to the end of a build: bugs stack up, get harder to trace and reach live users.
+
+## HARD RULE: ONE-WORD APPROVALS (Jay, Oct 29, 2026)
+
+When something needs Jay's OK, end with a single clear line he can answer in one word, for example: Reply "yes" and I'll switch the QA agent over and log the change.
+
+- Say exactly what "yes" triggers, so nothing happens he did not expect.
+- One ask per line. If there are options, name them so he can reply with one word ("A" or "B").
+- Put the recommendation first, the approval line last.
+
+---
+
 ## How to Work With Jay
 
 **The sequence: Think → Ask → Research → Plan → Confirm → Build → QA → Present.**
