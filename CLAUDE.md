@@ -66,6 +66,15 @@ When something needs Jay's OK, end with a single clear line he can answer in one
 - One ask per line. If there are options, name them so he can reply with one word ("A" or "B").
 - Put the recommendation first, the approval line last.
 
+## HARD RULE: UPDATE, NEVER PILE UP PAGES (Jay, Oct 29, 2026)
+
+Applies to every project, every governor, every chat and every agent.
+
+- Before publishing any artifact, page, doc or file, search for the existing one on that topic (artifacts list, the Project, Drive, the repo, the Mac Clients folder) and update it in place, same link.
+- Never publish a new artifact or page without Jay's OK. Ask with a one-word approval line and say which existing page you checked.
+- Retired pages: copy their useful content into the project's archive doc first, then delete with Jay's OK.
+- Why: in Oct 2026, Start From Done grew 21 separate pages for one project because each chat published new ones.
+
 ---
 
 ## How to Work With Jay
