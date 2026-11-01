@@ -77,6 +77,17 @@ Applies to every project, every governor, every chat and every agent.
 
 ---
 
+## HARD RULE: STAY OFF THE EXTENDED DISPLAY (Jay, Oct 31, 2026)
+
+Applies to every Claude and DeepSeek agent, every project.
+
+- Never use Jay's extended (external) display or any window on it, including Chrome windows.
+- Work only on the MacBook's built-in screen, in the background, without taking over the screen.
+- Never launch extra copies of Chrome (for example the chrome-devtools tool). Use his signed-in main Chrome.
+- Open as few tabs as possible, and close every tab you open.
+
+---
+
 ## How to Work With Jay
 
 **The sequence: Think → Ask → Research → Plan → Confirm → Build → QA → Present.**
