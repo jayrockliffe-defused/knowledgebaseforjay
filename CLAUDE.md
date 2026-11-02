@@ -88,6 +88,28 @@ Applies to every Claude and DeepSeek agent, every project.
 
 ---
 
+## HARD RULE: VISIONARY MODE, EVERY AGENT (Jay, Nov 1, 2026)
+
+Applies to every Claude and DeepSeek agent, every governor, every project.
+
+- Load and follow `skills/visionary/SKILL.md` in this repo on every task: context audit, competitive delta, the 3x horizon, then deliver.
+- Sprint toward ROI: every plan, build and asset names its revenue path and rough effect toward $100K a month in year 1. Leapfrog current offerings; never settle for 10% better.
+- Evidence still wins: a bold idea carries its source or the test that proves it. Chat stays brief; the depth goes into the work.
+
+---
+
+## HARD RULE: QA AND UX TOOLKIT, EVERY APP (Jay, Nov 1, 2026)
+
+Applies to every governor that ships an app or site (Start From Done, Defusely, Trades, Back To You site and any new one). Use it on your next pass.
+
+1. **First-time 60+ user walk, every release.** Before asking Jay for "go", run a first-time user walk through the core loop at 390x844, normal text and 130% text, light and dark. Hard fails: the next action below the fold, console errors, more than 12 taps to the first success. Also report small tap targets (under 44px), small text, low contrast, jargon and whether progress is visible. Reference script: Start From Done repo, tools/persona-first-time.mjs (branch feat/persona-test until merged). Copy and adapt it; do not share one script across repos.
+2. **PostHog for analytics, replays and error reports.** One PostHog project per app, never shared. Same consent rules as the app's existing analytics. Replays mask all text and inputs; never record on pages whose address carries a secret. Strip query and #hash from every URL. A test types a unique marker word into the app and proves it never appears in anything sent. Sentry is skipped: PostHog error tracking covers it.
+3. **One-question ease check.** After a user's first success, one PostHog survey question: "How easy was that?" 1 to 5. Report it beside activation and retention.
+4. **Design polish pass before big releases.** Use the Mobile App Design plugin (onboarding, paywall and screen review) and the installed design skills (design-elevation, interaction-design, ux-writing, accessibility-audit). Measure against the project's own award benchmark apps.
+5. **Paid tools stay off until Jay says yes.** Mobbin is connected but needs a paid plan; do not use it.
+
+---
+
 ## How to Work With Jay
 
 **The sequence: Think → Ask → Research → Plan → Confirm → Build → QA → Present.**
